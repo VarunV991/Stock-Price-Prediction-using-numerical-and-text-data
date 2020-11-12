@@ -28,8 +28,8 @@ The text dataset is taken from Harvard dataverse. This dataset contains the last
 
 ## Model Structure
 
-The whole hybrid model which combines the insights from text and numerical data is represented below:
-<img src="Hybrid Model.png">
+The whole hybrid model which combines the insights from text and numerical data is represented below:<br>
+<center><img src="Hybrid Model.png"><center>
 
 ## Code
 
